@@ -6,4 +6,4 @@ project objective:
  here I collected the data about spending of customers on different product,How long are customers typically with a firm,recency in visiting shop,some demogrophic features of customers.reduced the dimensionality using PCA,encoding categorical variables,scaling of features for better performance.we did unsupervised clustring using kmeans and AgglomerativeClustering.
  
 result:
-by using elbow method and Silhouette Score decuded to do 4 clusters. analyze the behaviour of each clusters using different visual technique,suggested the mesuares to be taken for each clusters.
+by using elbow method and Silhouette Score decuded to do 4 clusters. analyze the behaviour of each clusters using different visual techniqu.Made the profiling for each clustors,suggested the mesuares to be taken for each clusters.
